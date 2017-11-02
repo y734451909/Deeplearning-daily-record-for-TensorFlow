@@ -1,4 +1,4 @@
-# Deeplearning-daily-record-for-TensorFlow
+# VGG_16
 这是个简单的基于TensorFlow框架下VGG-16模型的实现，在cifar-10上测试有效
 # 怎样运行？
 * 1.加载数据集，预训练参数
